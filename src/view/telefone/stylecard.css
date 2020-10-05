@@ -1,0 +1,15 @@
+.content {
+    min-width: 200px;
+}
+
+.card {
+    margin-top: 50px;
+    min-width: 400px;
+    justify-content: center;
+}
+
+.labelresp {
+    text-align: center;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}

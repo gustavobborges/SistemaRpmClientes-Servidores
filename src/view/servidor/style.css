@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+    align-items: center;
+ 
+}
+
+table {
+    width: auto;
+    height: auto;
+    text-align: center;
+    table-layout: fixed;
+    margin: auto;
+}
+
+h3 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}

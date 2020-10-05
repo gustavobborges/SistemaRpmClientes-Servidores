@@ -1,0 +1,9 @@
+Fazer a página 'todos Sistemas' exiba a lista de quantidade de utilizações de cada sistema;
+
+Criar máscara para alguns campos (ex: DDD);
+
+Impedir que delete o Sistema ou servidor pela tela de listar todos quando estiver sendo utilizado.
+
+Arrumar update em Servicores (todos)
+
+Arrumar as msg de validação ao persistir botão salvar

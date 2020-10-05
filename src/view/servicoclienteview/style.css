@@ -1,0 +1,28 @@
+.content {
+    min-width: auto;
+    margin-top: -60px;
+
+}
+
+.card {
+    min-height: 405px;
+    margin-top: 50px;
+    min-width: 400px;
+    justify-content: center;
+}
+
+table {
+    text-align: center;
+    
+}
+.botaop{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    max-width: 160px;
+    margin: auto;
+    text-align: center;
+    margin-bottom: -25px;
+
+}

@@ -1,0 +1,10 @@
+.content {
+    min-width: 200px;
+}
+
+.card {
+    margin-top: 50px;
+    min-width: 400px;
+    justify-content: center;
+}
+

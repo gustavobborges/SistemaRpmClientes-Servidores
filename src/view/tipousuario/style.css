@@ -1,0 +1,22 @@
+table {
+    width: auto;
+    height: auto;
+    text-align: center;
+    table-layout: fixed;
+    margin: auto;
+}
+
+h3 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.botaop{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    max-width: 200px;
+    margin: auto;
+    text-align: center;
+    margin-bottom: 20px;
+}
