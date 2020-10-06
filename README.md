@@ -6,8 +6,11 @@ GUIA:
 TELA DE LOGIN:
 <img src="capturas_readMe/login.PNG">
 
+<hr>
+
 PÁGINA HOME - DASHBOARD; PAINEL DE CLIENTES COM CRUD;
 <img src="capturas_readMe/home.PNG">
+<br>
 <img src="capturas_readMe/home2.PNG">
 
 <hr>
@@ -22,6 +25,7 @@ NOVO CONTATO
 
 PÁGINA SISTEMAS
 <img src="capturas_readMe/sistema.PNG">
+<br>
 NOVO SISTEMA
 <img src="capturas_readMe/novoSistema.PNG">
 
@@ -33,6 +37,8 @@ PÁGINA SERVIDORES
 PÁGINA NOVO SERVIDOR
 <img src="capturas_readMe/novoServidor.PNG">
 
+<hr>
+
 PÁGINA DO CLIENTE
 <img src="capturas_readMe/paginaCliente.PNG">
 
@@ -43,6 +49,7 @@ NOVO SERVIÇO PARA O CLIENTE
 <br>
 PÁGINA DO SERVICO DO CLIENTE COM CADASTRO DE SERVIDORES
 <img src="capturas_readMe/servicoCliente.PNG">
+<br>
 PÁGINA DE ACESSOS DO SERVIDOR DO SERVIÇO DO CLIENTE
 <img src="capturas_readMe/acessos.PNG">
 
@@ -64,10 +71,10 @@ NOVO USUÁRIO
 <img src="capturas_readMe/novoUsuario.PNG">
 <br>
 TIPOS DE USUÁRIO
-<img src="capturas_readMe/tipoUsuario.PNG">
+<img src="capturas_readMe/tipoUsuarios.PNG">
 
 <hr>
 
 LOGOFF
-<img src="capturas_readMe/usuários.PNG">
+<img src="capturas_readMe/sair.PNG">
 
