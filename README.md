@@ -55,6 +55,7 @@ NOVO SERVIÇO PARA O CLIENTE
 PÁGINA DO SERVICO DO CLIENTE COM CADASTRO DE SERVIDORES
 <img src="capturas_readMe/servicoCliente.PNG">
 <br>
+<br>
 PÁGINA DE ACESSOS DO SERVIDOR DO SERVIÇO DO CLIENTE
 <img src="capturas_readMe/acessos.PNG">
 
@@ -62,11 +63,12 @@ PÁGINA DE ACESSOS DO SERVIDOR DO SERVIÇO DO CLIENTE
 <hr>
 
 NOVO CONTATO PARA O CLIENTE
-<img src="capturas_readMe/contatoCliente.PNG">
+<img src="capturas_readMe/novoContato.PNG">
 <br>
 <br>
 PÁGINA DO CONTATO COM CADASTRO DE TELEFONES
-<img src="capturas_readMe/novoContato.PNG">
+<img src="capturas_readMe/contatoCliente.PNG">
+
 
 <hr>
 
