@@ -19,6 +19,7 @@ PÁGINA HOME - DASHBOARD; PAINEL DE CLIENTES COM CRUD;
 PÁGINA CONTATOS
 <img src="capturas_readMe/contato.PNG">
 <br>
+<br>
 NOVO CONTATO
 <img src="capturas_readMe/novoContato.PNG">
 
@@ -27,6 +28,7 @@ NOVO CONTATO
 PÁGINA SISTEMAS
 <img src="capturas_readMe/sistema.PNG">
 <br>
+<br>
 NOVO SISTEMA
 <img src="capturas_readMe/novoSistema.PNG">
 
@@ -34,6 +36,7 @@ NOVO SISTEMA
 
 PÁGINA SERVIDORES
 <img src="capturas_readMe/servidor.PNG">
+<br>
 <br>
 PÁGINA NOVO SERVIDOR
 <img src="capturas_readMe/novoServidor.PNG">
@@ -48,6 +51,7 @@ PÁGINA DO CLIENTE
 NOVO SERVIÇO PARA O CLIENTE
 <img src="capturas_readMe/novoServicoCliente.PNG">
 <br>
+<br>
 PÁGINA DO SERVICO DO CLIENTE COM CADASTRO DE SERVIDORES
 <img src="capturas_readMe/servicoCliente.PNG">
 <br>
@@ -60,6 +64,7 @@ PÁGINA DE ACESSOS DO SERVIDOR DO SERVIÇO DO CLIENTE
 NOVO CONTATO PARA O CLIENTE
 <img src="capturas_readMe/contatoCliente.PNG">
 <br>
+<br>
 PÁGINA DO CONTATO COM CADASTRO DE TELEFONES
 <img src="capturas_readMe/novoContato.PNG">
 
@@ -68,8 +73,10 @@ PÁGINA DO CONTATO COM CADASTRO DE TELEFONES
 USUÁRIOS DO SISTEMA
 <img src="capturas_readMe/usuarios.PNG">
 <br>
+<br>
 NOVO USUÁRIO
 <img src="capturas_readMe/novoUsuario.PNG">
+<br>
 <br>
 TIPOS DE USUÁRIO
 <img src="capturas_readMe/tipoUsuarios.PNG">
