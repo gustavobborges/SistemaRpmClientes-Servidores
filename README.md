@@ -41,8 +41,11 @@ PÁGINA DO CLIENTE
 NOVO SERVIÇO PARA O CLIENTE
 <img src="capturas_readMe/novoServicoCliente.PNG">
 <br>
-PÁGINA DO SERVICO DO CLIENTE
+PÁGINA DO SERVICO DO CLIENTE COM CADASTRO DE SERVIDORES
 <img src="capturas_readMe/servicoCliente.PNG">
+PÁGINA DE ACESSOS DO SERVIDOR DO SERVIÇO DO CLIENTE
+<img src="capturas_readMe/acessos.PNG">
+
 
 <hr>
 
@@ -55,8 +58,16 @@ PÁGINA DO CONTATO COM CADASTRO DE TELEFONES
 <hr>
 
 USUÁRIOS DO SISTEMA
-<img src="capturas_readMe/usuários.PNG">
+<img src="capturas_readMe/usuarios.PNG">
 <br>
 NOVO USUÁRIO
-<img src="capturas_readMe/novoUsuário.PNG">
+<img src="capturas_readMe/novoUsuario.PNG">
+<br>
+TIPOS DE USUÁRIO
+<img src="capturas_readMe/tipoUsuario.PNG">
+
+<hr>
+
+LOGOFF
+<img src="capturas_readMe/usuários.PNG">
 
