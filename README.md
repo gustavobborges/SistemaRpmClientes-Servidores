@@ -1,5 +1,5 @@
 # SistemaRpmClientes-Servidores
-Sistema completo de controle do registro de clientes, sistemas, servidores, contatos e usuários. Desenvolvido utilizando PHP no backend, Javascript, css e html5 no frontend, e com a template AdminLTE3.
+Sistema completo de controle do registro de clientes, sistemas, servidores, contatos e usuários. Desenvolvido utilizando PHP no backend, Javascript, css e html5 no frontend, e com a template AdminLTE3. Foi elaborado o diagrama de classes conforme os requisitos e o sistema foi construído a partir deste.
 
 GUIA:
 
